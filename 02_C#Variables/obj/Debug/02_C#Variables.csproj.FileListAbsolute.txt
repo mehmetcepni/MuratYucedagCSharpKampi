@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\bin\Debug\02_C#Variables.exe.config
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\bin\Debug\02_C#Variables.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\bin\Debug\02_C#Variables.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\obj\Debug\02_C#Variables.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\obj\Debug\02_C#Variables.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\obj\Debug\02_C#Variables.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi\02_C#Variables\obj\Debug\02_C#Variables.pdb

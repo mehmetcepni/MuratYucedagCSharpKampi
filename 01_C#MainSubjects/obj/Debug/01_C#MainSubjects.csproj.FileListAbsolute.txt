@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\bin\Debug\01_C#MainSubjects.exe.config
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\bin\Debug\01_C#MainSubjects.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\bin\Debug\01_C#MainSubjects.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\obj\Debug\01_C#MainSubjects.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\obj\Debug\01_C#MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\obj\Debug\01_C#MainSubjects.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi\01_C#MainSubjects\obj\Debug\01_C#MainSubjects.pdb
